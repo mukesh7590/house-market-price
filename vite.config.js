@@ -12,5 +12,4 @@ export default defineConfig({
          },
       }),
    ],
-   base: "/house-market-price",
 });
